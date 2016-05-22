@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+  * I have learned the basic HTML syntax and been able to create simple web pages with some styles.
+
+  * Understanding and applying the HTML is relatively easy for me. The concept of HTML is pretty straight forward.
+
+  * I think the most difficult task so far is "translating" mockup, which needs to be focused and careful. I need to know not only what elements are needed, but also how they are organised. It is usual to ignore the details and make mistakes.
+
+  * I used Google several times during working on the project.
